@@ -1,0 +1,22 @@
+{
+  "main_settings": {
+    "io": "Test Automation IO Please Ignore #15795",
+    "advertiser_name": "Eskimi",
+    "advertisement_category": "IAB19 Technology & Computing",
+    "app_site_category_value": "31"
+  },
+  "reporting_and_budget": {
+    "budget_pacing": "None",
+    "daily_budget_recalculation": "False",
+    "tech_fee": "8.00"
+  },
+  "optimization_and_tracking": {
+    "strict_size_placement_size": "True",
+    "multiple_bids_per_second": "True"
+  },
+  "ad_exchange": {
+    "margin_type_value": "0",
+    "eskimi_margin": "True",
+    "eskimi_margin_value": "95"
+  }
+}

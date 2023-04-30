@@ -1,0 +1,7 @@
+{
+  "title" : "EditAutomationBrandSafety",
+  "find_url" : "True",
+  "find_content": "False",
+  "default" : "Yes",
+  "status" : "Enabled"
+}

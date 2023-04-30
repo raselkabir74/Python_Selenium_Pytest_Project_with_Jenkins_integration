@@ -1,0 +1,61 @@
+{
+  "name_and_type": {
+    "platform_type": "Eskimi",
+    "creative_type": "Banner",
+    "campaign_type": "Display Ads",
+    "campaign_name": "automation_ui_testing_"
+  },
+  "launch_date_and_budget": {
+    "bid_cpm": "1.00",
+    "daily_budget": "9.09",
+    "total_budget": "50.00"
+  },
+  "location_and_audiences": {
+    "country_name": "Bangladesh",
+    "city_name": "Dhaka - Bangladesh",
+    "state_name": "Dhaka division - Bangladesh",
+    "audience_include" : "Behavioral (user interests) - Automation Audience Behavioral Two (0 users)",
+    "audience_exclude" : "Behavioral (user interests) - Automation Audience Behavioral Three (0 users)",
+    "age": "25 - 29",
+    "gender": "Female",
+    "language": "Hebrew",
+    "sec": "A1"
+  },
+  "campaign_purpose": {
+     "campaign_purpose": "New customer acquisition",
+     "primary_operator": "Banglalink - Bangladesh"
+  },
+  "platforms_telco_and_devices": {
+    "ad_placement_type": "Site",
+    "mobile_operator": "Robi - Bangladesh",
+    "ip_address/ranges": "12.1.5.7",
+    "device_type": "Smartphone",
+    "device_os": "Android",
+    "device_brand": "Acer",
+    "device_model": "Acer Chromebook R11",
+    "browser": "Chrome",
+    "device_cost_range": "$50-100",
+    "sim_amount": "1 SIM",
+    "device_connection": "2G supporting devices",
+    "network_connection": "2G network connection",
+    "multiple_operation_sim_card": "Robi - Bangladesh",
+    "mobile_data_consumption": "High",
+    "operator_churn": "Robi - Bangladesh"
+  },
+  "optimisations_deals_and_packages": {
+    "impression_amount": "10",
+    "impression_time": "1",
+    "impression_click": "2",
+    "auto_opt_checkbox": "CTR (click-through rate)",
+    "minimum_ctr": "50",
+    "minimum_imp_per_placement_to_learn": "2",
+    "minimum_spend_per_placement_to_learn": "5",
+    "ad_exchange_checkbox": "Eskimi",
+    "ad_placement_position_checkbox": "Below the Fold"
+  },
+  "landing_and_creatives": {
+    "click_url": "https://business.eskimi.com",
+    "ad_domain": "business.eskimi.com",
+    "creative": "CampaignCreationSelenium"
+  }
+}

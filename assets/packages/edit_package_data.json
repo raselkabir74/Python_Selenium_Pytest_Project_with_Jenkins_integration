@@ -1,0 +1,6 @@
+{
+  "name": "edit_automation_package_",
+  "auction_type": "PMP only",
+  "csv_upload": "assets/packages/edit_package_sites.csv",
+  "user": "AutomationAgencyUser"
+}

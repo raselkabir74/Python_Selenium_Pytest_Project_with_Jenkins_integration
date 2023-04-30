@@ -1,0 +1,24 @@
+{
+  "name_and_type": {
+    "platform_type": "Eskimi",
+    "creative_type": "Video",
+    "campaign_type": "Display Ads",
+    "campaign_name": "automation_ui_testing_"
+  },
+  "launch_date_and_budget": {
+    "bid_cpm": "10.00",
+    "daily_budget": "72.73",
+    "total_budget": "400.00"
+  },
+  "location_and_audiences": {
+    "country_name": "Bangladesh"
+  },
+  "campaign_purpose" : {},
+  "platforms_telco_and_devices": {},
+  "optimisations_deals_and_packages": {},
+  "landing_and_creatives": {
+    "click_url": "https://business.eskimi.com",
+    "ad_domain": "business.eskimi.com",
+    "creative": "CampaignRegressionCreativeVideo"
+  }
+}
